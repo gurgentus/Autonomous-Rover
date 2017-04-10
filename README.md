@@ -1,5 +1,5 @@
 # Autonomous-Rover
-Autonomous rover capable of navigating through a known environment autonomously (ROS, computer vision, control, Kalman filtering; MATLAB, Python)
+Autonomous rover capable of navigating through an environment autonomously (ROS, computer vision, control, Kalman filtering; MATLAB, Python)
 
 # TODO
 
@@ -9,6 +9,7 @@ Autonomous rover capable of navigating through a known environment autonomously 
 - [X] Test on hardware
 - [ ] Use machine learning for localization instead of AprilTags
 - [ ] Add optimal control
+- [ ] SLAM
 
 # Video
 
